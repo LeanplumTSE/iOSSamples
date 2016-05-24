@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Analytics.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>LeanplumSegment.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-ticTacToeSwift.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-ticTacToeSwiftTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2AA9C246DF6F86CE38EC4A1CF344CA3A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>84C482B21110E63BFB37400DC4CB2422</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8ACB43B7C4DE62FEF63744DA468F697F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DCEFFE80450B48EF77D16C5D8A17EFFB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E703EF8141AB3D56D46182B4EA5FB571</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
